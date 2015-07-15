@@ -18,7 +18,6 @@
 
 	<div id="Sea">
 		<div id="Light"></div>
-      
 		<!-- Page centred -->
 		<div id="Container">
 			<div id="Header">
