@@ -16,8 +16,14 @@ HTML{
   width: 370px;
 }
 
+
+@font-face {
+	font-family: 'bicubik';
+	src: url('bicubik.ttf') format('truetype');}
+
+
 BODY{
-	font-family: bicubik;
+	font-family: arial;
 	font-size: 12px;
 	letter-spacing: 1px;
 }
@@ -606,7 +612,7 @@ UL.Items LI P{
 	font-size: 10px;
 	line-height: 11px;
 	overflow: hidden;
-	font:bicubik;
+	font-family: bicubik;
 }
 
 #pwok{
