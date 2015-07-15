@@ -3,4 +3,6 @@
 <file name="jcart.php" server="nbf.z1q.ru" local="130740684600000000" remote="130740684600000000" Dst="0" />
 <file name="config-loader.php" server="nbf.z1q.ru" local="130122612000000000" remote="130122612000000000" Dst="0" />
 <file name="config.php" server="nbf.z1q.ru" local="130122612000000000" remote="130122612000000000" Dst="0" />
+<file name="gateway.php" server="nbf.z1q.ru" local="130814705409771440" remote="130122612000000000" Dst="0" />
+<file name="relay.php" server="nbf.z1q.ru" local="130814705412531598" remote="130122612000000000" Dst="0" />
 </dwsync>

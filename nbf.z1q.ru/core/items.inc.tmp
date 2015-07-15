@@ -1,0 +1,75 @@
+<ul class="Items">
+<!-- START -->
+	<li>
+		<form method="post" action="" class="jcart" id="Item_1-96">
+			<input type="hidden" name="Token" value="<?php echo $_SESSION['jcartToken'];?>" />
+			<input type="hidden" name="my-item-id" value="1-96" />
+			<input type="hidden" name="my-item-name" value="Название товара 1" />
+			<input type="hidden" name="my-item-price" value="250" />
+			<input type="hidden" name="my-item-url" value="" />
+			<input class="qty" type="text" name="my-item-qty" value="1"/>
+			<div><img src="/catalog/1-96.jpg"></div>
+			<h3>Название товара 1</h3>
+			<p>Описание товара размером не более трех строк выглядит вот таким образом</p>
+			<span><input type="submit" name="my-add-button" value=" " class="AddCart"/>Цена: <b>250 р.</b></span>	
+		</form>
+	</li>
+	<li>
+		<form method="post" action="" class="jcart" id="Item_2-96">
+			<input type="hidden" name="Token" value="<?php echo $_SESSION['jcartToken'];?>" />
+			<input type="hidden" name="my-item-id" value="2-96" />
+			<input type="hidden" name="my-item-name" value="Название товара 2" />
+			<input type="hidden" name="my-item-price" value="320" />
+			<input type="hidden" name="my-item-url" value="" />
+			<input class="qty" type="text" name="my-item-qty" value="1"/>
+			<div><img src="/catalog/2-96.jpg"></div>
+			<h3>Название товара 2</h3>
+			<p>Описание товара размером не более трех строк выглядит вот таким образом</p>
+			<span><input type="submit" name="my-add-button" value=" " class="AddCart"/>Цена: <b>320 р.</b></span>	
+		</form>
+	</li>
+	<li>
+		<form method="post" action="" class="jcart" id="Item_3-96">
+			<input type="hidden" name="Token" value="<?php echo $_SESSION['jcartToken'];?>" />
+			<input type="hidden" name="my-item-id" value="3-96" />
+			<input type="hidden" name="my-item-name" value="Название товара 3" />
+			<input type="hidden" name="my-item-price" value="400" />
+			<input type="hidden" name="my-item-url" value="" />
+			<input class="qty" type="text" name="my-item-qty" value="1"/>
+			<div><img src="/catalog/3-96.jpg"></div>
+			<h3>Название товара 3</h3>
+			<p>Описание товара размером не более трех строк выглядит вот таким образом</p>
+			<span><input type="submit" name="my-add-button" value=" " class="AddCart"/>Цена: <b>400 р.</b></span>	
+		</form>
+	</li>
+	<li>
+		<form method="post" action="" class="jcart" id="Item_4-96">
+			<input type="hidden" name="Token" value="<?php echo $_SESSION['jcartToken'];?>" />
+			<input type="hidden" name="my-item-id" value="4-96" />
+			<input type="hidden" name="my-item-name" value="Название товара 1" />
+			<input type="hidden" name="my-item-price" value="310" />
+			<input type="hidden" name="my-item-url" value="" />
+			<input class="qty" type="text" name="my-item-qty" value="1"/>
+			<div><img src="/catalog/4-96.jpg"></div>
+			<h3>Название товара 4</h3>
+			<p>Описание товара размером не более трех строк выглядит вот таким образом</p>
+			<span><input type="submit" name="my-add-button" value=" " class="AddCart"/>Цена: <b>310 р.</b></span>	
+		</form>
+	</li>
+	<li>
+		<form method="post" action="" class="jcart" id="Item_5-96">
+			<input type="hidden" name="Token" value="<?php echo $_SESSION['jcartToken'];?>" />
+			<input type="hidden" name="my-item-id" value="5-96" />
+			<input type="hidden" name="my-item-name" value="Название товара 5" />
+			<input type="hidden" name="my-item-price" value="230" />
+			<input type="hidden" name="my-item-url" value="" />
+			<input class="qty" type="text" name="my-item-qty" value="1"/>
+			<div><img src="/catalog/5-96.jpg"></div>
+			<h3>Название товара 5</h3>
+			<p>Описание товара размером не более трех строк выглядит вот таким образом</p>
+			<span><input type="submit" name="my-add-button" value=" " class="AddCart"/>Цена: <b>230 р.</b></span>	
+		</form>
+	</li>
+<!-- END -->
+<br class="Clear" />	
+</ul>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://big-fish.su/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/action.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/news.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/about.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/delivery.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/contacts.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=1</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=3</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=4</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=5</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=6</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=7</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=8</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=9</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=10</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=11</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/?cat=16</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/delivery1.php</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/category/%d1%80%d0%be%d0%bb%d0%bb%d1%8b/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/35/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%b4%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0-%d1%80%d0%be%d0%bb%d0%bb%d0%be%d0%b2/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d1%80%d0%be%d0%bb%d0%bb%d1%8b/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d1%81%d1%83%d1%88%d0%b8-2/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d1%8f%d0%bf%d0%be%d0%bd%d1%86%d1%8b/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/category/%d0%bb%d0%b0%d0%bf%d1%88%d0%b0/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/%d0%ba%d0%b8%d1%82%d0%b0%d0%b9%d1%81%d0%ba%d0%b0%d1%8f-%d0%bb%d0%b0%d0%bf%d1%88%d0%b0-%d0%b8%d0%bb%d0%b8-%d1%81%d0%b5%d0%ba%d1%80%d0%b5%d1%82%d1%8b-%d0%b2%d0%be%d0%bb%d1%88%d0%b5%d0%b1%d0%bd%d0%be/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%b4%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0-%d0%b5%d0%b4%d1%8b/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%bb%d0%b0%d0%bf%d1%88%d0%b0-2/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b0/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/category/%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b0%d1%8f-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b0/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/big-fish-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d0%b2%d0%b0%d0%b5%d1%82-%d0%b1%d0%bb%d0%be%d0%b3-%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5-%d1%83%d0%b7%d0%bd%d0%b0%d0%b5%d0%bc-%d0%b4%d1%80%d1%83%d0%b3/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/tag/%d0%bf%d0%be%d1%85%d0%b2%d0%b0%d0%bb%d1%8b/</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://big-fish.su/article/about/</loc>
+  <priority>0.64</priority>
+</url>
+</urlset>
