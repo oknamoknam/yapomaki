@@ -18,7 +18,8 @@
 
 	<div id="Sea">
 		<div id="Light"></div>
-		<!-- Page centred -->
+        
+		<!-- Page centr -->
 		<div id="Container">
 			<div id="Header">
 				<?php include('core/header.inc') ?>
