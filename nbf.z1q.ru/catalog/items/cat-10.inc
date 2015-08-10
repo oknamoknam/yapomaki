@@ -22,8 +22,8 @@
 			<p>Соус "el'Grande", сыр моццарелла, сыр дорблю, ветчина, колбаса пепперони, перец болгарский, огурцы маринованные.
 			</p>
 			<b class="rv">
-			<b class="pizzaprice"><b class="razmerp">4 шт</b><br>/1000 г./</b><b class="pizzapricered">540 р.</b><b class="sdvig">.</b><br>
-			<b class="pizzaprice"><b class="razmerp">8 шт</b>/1700 г./</b><b class="pizzapricered">690 р.</b>
+			<b class="pizzaprice"><b class="razmerp">1000 г.</b><br>шт.&nbsp;</b><b class="pizzapricered">270 р.</b><b class="sdvig">.</b>
+			<b class="pizzaprice"><b class="razmerp">1700 г.</b>шт.</b><b class="pizzapricered">270 р.</b>
 			</b>
 			<span><input type="submit" name="my-add-button" value=" " class="AddCart45"/></span>		
 		</form>

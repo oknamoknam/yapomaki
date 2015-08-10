@@ -391,15 +391,18 @@ A:hover.Menu-32, A.Sel.Menu-32 {
 	position: absolute;
 	font-weight: bold;
 	font-size: 14px;
-	color: #e61e25;
-	padding-left: 40px;
-	padding-top: 3px;
-	margin-left: 20px;
-	margin-top: 8px;
+	color: #ECD714;
+	padding-left: 7px;
+	margin-left: 21px;
+	margin-top: 14px;
 	height: 18px;
-	width: 350px;
-	background: url('Title.png') no-repeat 0 2px;
+	width: auto;
+	background-repeat: repeat-x;
+	background-position: 0 2px;
+	border-radius: 3px;
 	overflow: hidden;
+	padding-right: 7px;
+	background-color: #FF0004;
 }
 
 #Content .Title UL{
@@ -731,7 +734,7 @@ UL.Pizza LI .AddCart33{
 	border: none;
 	cursor: pointer;
 	height: 41px;
-	margin-left: -5px;
+	margin-left: -9px;
 	margin-top: -22px;
 	padding: 0;
 	position: absolute;
@@ -906,8 +909,8 @@ UL.Items LI.VeryFull SPAN {
 #ItemList dl{
 	display: block;
 	width: 212px;
-	height: 55px;
-	border-bottom: 2px solid red;
+	height: 56px;
+	border-bottom: 1px solid #4B4B4B;
 	color:white;
 }
 #ItemList dl.empty{
@@ -1028,9 +1031,9 @@ UL.Items LI.VeryFull SPAN {
 #jcart-checkout{
 	display: block;
 	margin: 0 auto;
-	margin-top: 8px;
+	margin-top: 0px;
 	height: 33px;
-	width: 183px;
+	width: 191px;
 	background: url('Order.gif') no-repeat 0 0;
 	cursor: pointer;
 	padding: 0;
@@ -1247,7 +1250,7 @@ color: gray;
 	line-height: 8px;
 	font-size: 8px;
 	margin-left: 0px;
-
+	clear: both;
 }
 
 .pizzapricered{
@@ -1451,8 +1454,8 @@ font-size:13px;
 .rv{
 	
 	position:absolute;
-	top:159px;
-	left: 15px;
+	top:165px;
+	left: 28px;
 	height:50px;
 	width:200px;
 	}
