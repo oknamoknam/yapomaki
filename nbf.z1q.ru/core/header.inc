@@ -1,5 +1,4 @@
-<a class="Logo" href="/" title="BigFish"></a>
-<a class="vk1" href="https://vk.com/app4602210#2627-welcome" title="BigFish"></a>
+
 <ul>
 	<li><a class="Menu-15" href="/action.php"><b>АКЦИИ</b></a></li>
 	<li><a class="Menu-14" href="/news.php"><b>НОВОСТИ</b></a></li>

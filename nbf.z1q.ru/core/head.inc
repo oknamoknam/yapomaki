@@ -1,7 +1,10 @@
 <head>
-
-
-
+<style type="text/css">
+@import url("../../../webfonts/bicubik/stylesheet.css");
+body,td,th {
+	font-family: bicubik;
+}
+</style>
 	 
 	<?php 
 	$cat = $_GET['cat'];

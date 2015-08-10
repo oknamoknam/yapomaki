@@ -73,49 +73,7 @@
 	// }
 					?>
 				<div class="Clear"></div>	
-			<?php
-				if($cat == 10) {
-					$fhi = 337;
-					$ffhi = 214;
-				} else {
-					$fhi = 385;
-					$ffhi = 234;
-				}
-			echo "<div id=\"Footer\" style=\"height: ".$fhi."px;\">";
-			// echo "<div id=\"Footer\" style=\"height: 385px;\">";
-			if (empty($cat)) {
-				$cat = 2;
-			}
-				include_once('text.php');
-				echo "<div style=\"width: 928px; height: ".$ffhi."px;\">";
-				// echo "<div style=\"width: 928px; height: 234px;\">";
-					if($cat == 10) {
-						echo "<div class=\"text_bottom  text_bottom_big\">";
-							echo "<h1>".$tit_1."</h1>";
-							echo "<span>".$text_1."</span>";
-						echo "</div>";
-						echo "<div class=\"text_bottom text_bottom_big\">";
-							echo "<h1>".$tit_2."</h1>";
-							echo "<span>".$text_2."</span>";
-						echo "</div>";
-						echo "<div class=\"Clear\"></div>";
-					} else {
-						echo "<div class=\"text_bottom\">";
-							echo "<h1>".$tit_1."</h1>";
-							echo "<span>".$text_1."</span>";
-						echo "</div>";
-						echo "<div class=\"text_bottom\">";
-							echo "<h1>".$tit_2."</h1>";
-							echo "<span>".$text_2."</span>";
-						echo "</div>";
-						echo "<div class=\"text_bottom\">";
-							echo "<h1>".$tit_3."</h1>";
-							echo "<span>".$text_3."</span>";
-						echo "</div>";
-						echo "<div class=\"Clear\"></div>";
-					}
-				echo "</div>";
-			?>
+			
 				<?php include('core/footer.inc') ?>
 				
 			</div>

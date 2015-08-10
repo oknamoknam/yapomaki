@@ -60,7 +60,6 @@ BODY{
 	z-index:2;		
 }
 #Light{
-	background: url('Light.png') no-repeat center top;
 	height: 320px;
 	width: 100%;
 	position: absolute;
@@ -103,9 +102,8 @@ BODY{
 #Header UL{
 	position: absolute;
 	display: block;
-	margin-top: 45px;
-	
-	margin-left: 500px;
+	margin-top: 31px;
+	margin-left: 105px;
 
 }
 #Header UL LI{
@@ -121,44 +119,44 @@ BODY{
 
 }
 A.Menu-11{
-	width: 98px;
-	background-position: -808px 0px;
+	width: 140px;
+	background-position: -1016px 0px;
 	margin-left: -3px;
 }
 A:hover.Menu-11, A.Sel.Menu-11 {
-	background-position: -808px -17px;
+	background-position: -1016px -17px;
 }
 A.Menu-12{
-	width: 156px;
-	background-position: -920px 0px;
-	margin-left: 15px;
+	width: 209px;
+background-position: -1162px 0px;
+margin-left: 10px;
 }
 A:hover.Menu-12, A.Sel.Menu-12 {
-	background-position: -920px -17px;
+	background-position: -1162px -17px;
 }
 A.Menu-13{
-	width: 77px;
-	background-position: -1090px 0px;
-	margin-left: 16px;
+	width: 109px;
+background-position: -1373px 0px;
+margin-left: 4px;
 }
 A:hover.Menu-13, A.Sel.Menu-13 {
-	background-position: -1090px -17px;
+	background-position: -1373px -17px;
 }
 A.Menu-14{
-	width: 90px;
-	background-position: -1181px 0px;
+	width: 84px;
+	background-position: -936px 0px;
 	margin-left: 7px;
 }
 A:hover.Menu-14, A.Sel.Menu-14 {
-	background-position: -1181px -17px;
+	background-position: -936px -17px;
 }
 A.Menu-15{
-	width: 60px;
-	background-position: -1265px 0px;
+	width: 106px;
+	background-position: -828px 0px;
 	margin-left: -55px;
 }
 A:hover.Menu-15, A.Sel.Menu-15 {
-	background-position: -1265px -17px;
+	background-position: -828px -17px;
 }
 
 #Header UL LI A B{
@@ -206,14 +204,14 @@ A:hover.Menu-15, A.Sel.Menu-15 {
 }
 #Menu{
 	display: block;
-	background: url('Menu.png') no-repeat 0 0;
+	
 	height: 90px;
 	width: 929px;
 	margin-left: 36px;	
 }
 #Menu UL{
 	position: absolute;
-	margin-top: 50px;
+	margin-top: 45px;
 }
 #Menu UL LI{
 	float: left;
@@ -226,79 +224,79 @@ A:hover.Menu-15, A.Sel.Menu-15 {
 	height: 15px;
 }
 A.Menu-1{
-	width: 43px;
+	width: 60px;
 	background-position: -4px 0px;
-	margin-left: 8px;
+	margin-left: 20px;
 }
 A:hover.Menu-1, A.Sel.Menu-1 {
 	background-position: -4px -17px;
 }
 A.Menu-2{
-	width: 50px;
+	width: 87px;
 	background-position: -62px 0px;
-	margin-left: 11px;
+	margin-left: 0px;
 }
 A:hover.Menu-2, A.Sel.Menu-2 {
 	background-position: -62px -17px;
 }
 A.Menu-3{
-	width: 64px;
-	background-position: -127px 0px;
-	margin-left: 11px;
+	width: 89px;
+background-position: -159px 0px;
+margin-left: 10px;
 }
 A:hover.Menu-3, A.Sel.Menu-3 {
-	background-position: -127px -17px;
+	background-position: -159px -17px;
 }
 A.Menu-4{
-	width: 59px;
-	background-position: -206px 0px;
+	width: 86px;
+	background-position: -259px 0px;
 	margin-left: 11px;
 }
 A:hover.Menu-4, A.Sel.Menu-4 {
-	background-position: -206px -17px;
+	background-position: -259px -17px;
 }
 A.Menu-5{
 	width: 63px;
-	background-position: -280px 0px;
-	margin-left: 11px;
-}
-A:hover.Menu-5, A.Sel.Menu-5 {
-	background-position: -280px -17px;
-}
-A.Menu-6{
-	width: 66px;
 	background-position: -356px 0px;
 	margin-left: 11px;
 }
-A:hover.Menu-6, A.Sel.Menu-6 {
+A:hover.Menu-5, A.Sel.Menu-5 {
 	background-position: -356px -17px;
 }
+A.Menu-6{
+	width: 94px;
+	background-position: -426px 0px;
+	margin-left: 11px;
+}
+A:hover.Menu-6, A.Sel.Menu-6 {
+	background-position: -426px -17px;
+}
 A.Menu-7{
-	width: 65px;
-	background-position: -437px 0px;
+	width: 72px;
+	background-position: -531px 0px;
 	margin-left: 11px;
 }
 A:hover.Menu-7, A.Sel.Menu-7 {
-	background-position: -437px -17px;
+	background-position: -531px -17px;
 }
 A.Menu-8{
-	width: 129px;
-	background-position: -517px 0px;
+	width: 100px;
+	background-position: -613px 0px;
 	margin-left: 11px;
 }
 A:hover.Menu-8, A.Sel.Menu-8 {
-	background-position: -517px -17px;
+	background-position: -613px -17px;
 }
 A.Menu-9{
-	width: 66px;
-	background-position: -662px 0px;
+	width: 98px;
+	background-position: -725px 0px;
 	margin-left: 11px;
 }
 A:hover.Menu-9, A.Sel.Menu-9 {
-	background-position: -662px -17px;
+	background-position: -725px -17px;
 }
 A.Menu-10{
-	width: 52px;
+	width: 0px;
 	background-position: -743px 0px;
 	margin-left: 11px;
 }
@@ -307,7 +305,7 @@ A:hover.Menu-10, A.Sel.Menu-10 {
 }
 
 A.Menu-31{
-	width: 77px;
+	width: 0px;
 	background-position: -1413px 0px;
 	margin-left: 5px;
 }
@@ -316,7 +314,7 @@ A:hover.Menu-31, A.Sel.Menu-31 {
 }
 
 A.Menu-32{
-	width: 69px;
+	width: 0px;
 	background-position: -1336px 0px;
 	margin-left: 9px;
 }
@@ -333,7 +331,6 @@ A:hover.Menu-32, A.Sel.Menu-32 {
 	position: absolute;
 	width: 202px;
 	height: 188px;
-	background: url('MenuL.png') no-repeat 0 0;
 	left: -165px;
 	z-index: 10;
 }
@@ -342,7 +339,6 @@ A:hover.Menu-32, A.Sel.Menu-32 {
 	position: absolute;
 	width: 202px;
 	height: 188px;
-	background: url('MenuR.png') no-repeat 0 0;
 	right: -166px;
 	z-index: 10;
 }
@@ -544,14 +540,14 @@ UL.Items LI.VeryFull SPAN{
 UL.Pizza LI H3 {
 	margin-top: 103px !important;
 }
-UL.Pizza LI P{
-	width: 200px !important;
-	line-height: 10px !important;
-	margin-top: 119px !important;
+UL.Pizza LI P {
+    width: 211px;
+    line-height: 9px !important;
+    margin-top: 129px !important;
 }
 UL.Items LI IMG{
 	position: absolute;
-	height: 155px;
+	height: 140px;
 	width: 210px;
 	margin-top: 0px;
 	margin-left: 0px;
@@ -564,13 +560,13 @@ UL.Items LI H3{
 	position: absolute;
 	height: 33px;
 	width: 195px;
-	margin-top: 112px;
-	margin-left: 15px;
-	color: #f59b16;
+	margin-top: 120px;
+	margin-left: 5px;
+	color: #FFF;
 	font-size: 13px;
 	font-weight: bold;
 	overflow: hidden;
-	line-height: 12px;
+	line-height: 39px;
 	
 	
 }
@@ -605,14 +601,15 @@ UL.Items LI H3.bltitle{
 UL.Items LI P{
 	position: absolute;
 	height: 50px;
-	width: 190px;
-	margin-top: 128px;
-	margin-left: 15px;
-	color: #5d5d5d;
-	font-size: 10px;
+	width: 211px;
+	margin-top: 137px;
+	margin-left: 5px;
+	color: #989898;
+	font-size: 7px;
 	line-height: 11px;
 	overflow: hidden;
 	font-family: bicubik;
+	line-height: 49px;
 }
 
 #pwok{
@@ -637,8 +634,8 @@ UL.Items LI SPAN{
 	position: absolute;
 	height: 0px;
 	width: 180px;
-	margin-top: 180px;
-	margin-left: 15px;
+	margin-top: 190px;
+	margin-left: 5px;
 	font-size: 10px;
 	color: #303030;
 }
@@ -718,8 +715,8 @@ UL.Pizza LI .AddCart45{
 	border: none;
 	cursor: pointer;
 	height: 41px;
-	margin-left: 153px;
-	margin-top: -11px;
+	margin-left: 103px;
+	margin-top: -19px;
 	padding: 0;
 	position: absolute;
 	width: 41px;
@@ -734,8 +731,8 @@ UL.Pizza LI .AddCart33{
 	border: none;
 	cursor: pointer;
 	height: 41px;
-	margin-left: 119px;
-	margin-top: -13px;
+	margin-left: -5px;
+	margin-top: -22px;
 	padding: 0;
 	position: absolute;
 	width: 41px;
@@ -910,7 +907,8 @@ UL.Items LI.VeryFull SPAN {
 	display: block;
 	width: 212px;
 	height: 55px;
-	border-bottom: 2px solid #e3ebf1;
+	border-bottom: 2px solid red;
+	color:white;
 }
 #ItemList dl.empty{
 	border-bottom: none;
@@ -951,7 +949,7 @@ UL.Items LI.VeryFull SPAN {
 	display: block;
 	position: absolute;
 	margin-left: 89px;
-	font-size: 11px;
+	font-size: 10px;
 	height: 27px;
 	margin-top: 2px;
 	margin-right: 2px;
@@ -1008,14 +1006,10 @@ UL.Items LI.VeryFull SPAN {
 	position: absolute;
 	display: block;
 	height: 16px;
-
-
-
-
-
 	width: 212px;
 	margin-top: 325px;
-	border-top: 2px solid #e3ebf1;
+	color:white;
+	
 }
 #Checkout .Summ{
 	text-align: center;
@@ -1639,9 +1633,9 @@ background:url(/catalog/new.png) no-repeat 0 0;
   background-image:url(/images/vk.png);
   background-repeat:no-repeat no-repeat;
   height:126px;
-  left:200px;
+  left:50px;
   position:relative;
-  top:-56px;
+  top:79px;
   width:184px;
 }
 .skorovcao {
@@ -1685,9 +1679,9 @@ a:hover.usl1 {
 
 .vk {
   height:70px;
-  left:446px;
+  left:240px;
   position: absolute;
-  top:69px;
+  top:181px;
   width:200px;
 }
 
